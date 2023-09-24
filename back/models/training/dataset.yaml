@@ -1,0 +1,6 @@
+path: c:\Users\Aakhil\Desktop\delta\aucv\back\data\final
+val: .\images\train
+train: .\images\train
+
+names:
+  0: Mobile phone
